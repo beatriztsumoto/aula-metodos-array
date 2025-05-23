@@ -30,4 +30,4 @@ Separa o array conforme os índices
 
 ## Método Splice
 
-Remove ou substitui elemnentos do array conforme os índices
+Remove ou substitui elementos do array conforme os índices
